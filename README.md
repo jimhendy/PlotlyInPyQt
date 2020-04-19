@@ -1,0 +1,1 @@
+Simple example of using plotly in a PyQt QWebEngingeView
